@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380295630382",
+    "project_id": "fir-calculator-8a0f2",
+    "storage_bucket": "fir-calculator-8a0f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380295630382:android:20a04822d87ce6211719bf",
+        "android_client_info": {
+          "package_name": "com.phonix.sip.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1SH0te8h1bQCkuN5wR5CEgvyeMdTzTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
