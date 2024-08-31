@@ -5,6 +5,7 @@ import 'package:flutter_sip_calculator/ads/ads_sharedpref.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
+///need to optimize timing of native ads
 class NativeSmallBannerAdMob extends StatefulWidget {
   const NativeSmallBannerAdMob({Key? key}) : super(key: key);
 
